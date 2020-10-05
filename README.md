@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/vipul_kandelwal
+[instagram]: https://instagram.com/vipul_kh
+[linkedin]: https://www.linkedin.com/in/vipul-khandelwal-5a03b3123/
